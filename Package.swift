@@ -21,8 +21,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RogoIOSSDKBinary",
-            url: "https://github.com/xtung2404/RogoIOSSDK-Binary/releases/download/0.0.2/RogoIOSSDK-0.0.2.xcframework.zip",
-            checksum: "c2f11d418e3ee4205a6ae3aa8b8eb4c41a112d73f2a99b3506ef9bf43ac0794d"
+            url: "https://github.com/xtung2404/RogoIOSSDK-Binary/releases/download/0.0.4/RogoIOSSDK-0.0.4.xcframework.zip",
+            checksum: "998f2fb4d666da19bc876ac0d6f21fe17b6adfa2981a25eed237e6d4b08aa6f5"
         ),
         .target(
             name: "RogoIOSSDKWrapper",
